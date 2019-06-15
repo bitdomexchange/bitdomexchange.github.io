@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://changsha-estate-oss.oss-cn-hongkong.aliyuncs.com/app_download/bitdom.ipa</string>
+					<string>https://changsha-simexchange-oss.oss-cn-hongkong.aliyuncs.com/app_download/bitdom.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>Bitdom</string>
+				<string>bitdom</string>
 			</dict>
 		</dict>
 	</array>
